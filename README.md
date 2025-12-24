@@ -1,9 +1,8 @@
 # 📊 Análise e Previsão de Gastos da CEAPS
 
-Este projeto tem como objetivo analisar e prever os gastos da Cota para Exercício da Atividade Parlamentar (CEAPS), utilizando dados públicos do Senado Federal no período de 2018 a 2021.
-
 ## 🎯 Objetivo
-Entender o comportamento histórico dos gastos dos senadores e aplicar técnicas de Forecasting para estimar valores futuros, começando por modelos simples e evoluindo para abordagens mais robustas.
+- Entender o comportamento histórico dos gastos dos senadores e aplicar técnicas de Forecasting para estimar valores futuros, começando por modelos simples e evoluindo para abordagens mais robustas.
+- Este projeto tem como objetivo analisar e prever os gastos da Cota para Exercício da Atividade Parlamentar (CEAPS), utilizando dados públicos do Senado Federal no período de 2018 a 2021.
 
 ## 📁 Dados
 O dataset utilizado contém:
