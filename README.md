@@ -28,5 +28,9 @@ Os dados foram previamente consolidados para facilitar a análise de séries tem
 ## 📊 Resultados
 O modelo conseguiu capturar bem a tendência e os padrões sazonais da série temporal, apesar da alta volatilidade diária dos dados. A análise demonstra a importância de modelos simples como baseline e o uso de técnicas adequadas para séries temporais financeiras.
 
+## 📈 Comparação entre o real X previsto
+
+![Real VS Previsto](img/comparacao-real-X-previsto.png)
+
 ## 🚀 Conclusão
 Este projeto demonstra como dados públicos podem ser utilizados para gerar insights relevantes e apoiar análises de planejamento e transparência, reforçando a importância do Data Storytelling na comunicação dos resultados.
